@@ -650,12 +650,12 @@ section {
     border-radius: 5px;
     transition: 0.5s;
     color: #fff;
-    background: linear-gradient(45deg, #5846f9 0%, #7b27d8 100%);
+    background: linear-gradient(45deg, #147db9 0%, #27d885 100%);
     position: relative;
 }
 
 .about .content .read-more:hover {
-    background: linear-gradient(180deg, #5846f9 0%, #7b27d8 100%);
+    background: linear-gradient(180deg, #13a762 0%, #084c74 100%);
 }
 
 .about .content .read-more i {
