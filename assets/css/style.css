@@ -54,13 +54,13 @@ h6 {
     width: 40px;
     height: 40px;
     border-radius: 4px;
-    background: #5846f9;
+    background: #2eb19f;
     color: #fff;
     transition: all 0.4s;
 }
 
 .back-to-top i:hover {
-    background: #7b27d8;
+    background: #27d8cf;
     color: #fff;
 }
 
@@ -85,8 +85,8 @@ h6 {
     position: fixed;
     top: calc(50% - 30px);
     left: calc(50% - 30px);
-    border: 6px solid #5846f9;
-    border-top-color: #e7e4fe;
+    border: 6px solid #46f9d2;
+    border-top-color: #e4fdfe;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -390,7 +390,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-    color: #5846f9;
+    color: #177979;
     text-decoration: none;
 }
 
@@ -492,7 +492,7 @@ h6 {
 
 #hero .btn-get-started:hover {
     background: #fff;
-    color: #5846f9;
+    color: #13a787;
 }
 
 #hero .animated {
@@ -597,7 +597,7 @@ section {
     display: block;
     width: 50px;
     height: 3px;
-    background: #5846f9;
+    background: #36c0a9;
     bottom: 0;
     left: calc(50% - 25px);
 }
@@ -934,7 +934,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-    background-color: #5846f9 !important;
+    background-color: #199ba0 !important;
 }
 
 @media (max-width: 767px) {
@@ -1686,7 +1686,7 @@ section {
 }
 
 #footer .copyright-wrap {
-    border-top: 1px solid #8577fb;
+    border-top: 1px solid #8477fb00;
 }
 
 #footer .credits {
@@ -1718,4 +1718,8 @@ section {
     background: rgba(255, 255, 255, 0.2);
     color: #fff;
     text-decoration: none;
+}
+
+.transparent-text-2 {
+    color: #00fffb7a !important;
 }
